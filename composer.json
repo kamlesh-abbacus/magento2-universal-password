@@ -7,6 +7,12 @@
         "Magento2 Universal Password",
         "Universal Password"
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/kamlesh-khuti/magento2-universal-password"
+        }
+    ],
     "license": [
         "proprietary"
     ],
